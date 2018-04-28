@@ -1,8 +1,8 @@
-Origin: ca13ra1
-Label: ca13ra1's repo
+Origin: Squ1dd13
+Label: Squ1dd13’s Repo
 Suite: stable
 Version: 1.0
-Codename: ca13ra1
+Codename: squ1dd13
 Architectures: iphoneos-arm
 Components: main
 Description: Cydia Repository
