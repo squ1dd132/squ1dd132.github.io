@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Squ1dd13
 Installed-Size: 140
 Depends: mobilesubstrate
-Filename: debs/com.squ1dd13.redditrandom_0.0.1-9+debug_iphoneos-arm.deb
+Filename: ./debs/com.squ1dd13.redditrandom_0.0.1-9+debug_iphoneos-arm.deb
 Size: 5322
 MD5sum: e3185b4027eca227cd14c8ce75d84508
 SHA1: 9cff8e115ccdf486459c91f2d0c0b279a474ba00
