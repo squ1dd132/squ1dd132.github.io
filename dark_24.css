@@ -11,3 +11,14 @@
   color: #0DD6EF !important;
   background: #FF5573 !important;
 }
+
+@media screen and (max-width: 1000px) { 
+  body, #site { 
+    overflow-x: hidden; 
+  }
+
+   .row .col {
+     width: 100%;
+     float: none;
+   }   
+ }
