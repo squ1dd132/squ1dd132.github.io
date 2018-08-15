@@ -22,3 +22,7 @@
      float: none;
    }   
  }
+
+.panel-body {
+  background-color: #303030 !important;
+}
